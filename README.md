@@ -22,16 +22,12 @@
 </div>
 
 ##  Langages de programmation
+![ PHP ](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![ JavaScript ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![ HTML5 ](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![ CSS3 ](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![ PHP ](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ##  Frameworks, plateformes et bibliothèques
-![ Vue js ](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![ SASS ](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![ TailwindCSS ](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ Bootstrap ](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ Matériel ](https://img.shields.io/badge/Material-ui-0081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![ Mysql ](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
 ![ UML ](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
 ![ MVC ](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
@@ -44,8 +40,6 @@
 <!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
 ##  Conception
 ![ Figma ](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
-![ Adobe Photoshop ](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
-<!-- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) -->
 ##  Contrôle des versions
 ![ Git ](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![ GitHub ](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
