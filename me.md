@@ -1,123 +1,55 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marouan+Bouchettoy;I'm+20+years+old;I+from+Morocco;I+study+Full+Stack+Java+And+Angular+Developer+at+Youcode;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marouan+Bouchettoy;I'm+20+years+old;I+from+Morocco;I+study+Web+Development+at+Youcode;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![I am Full-Stack Java and Angular Developer](https://marouane216.github.io/me2/marouan%20bouchettoy.png)
+![I am full stack web developer](https://marouane216.github.io/me2/banniere.png)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouane216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marouane216&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Marouane Bouchettoy github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marouane216&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-###
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marouane216&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="34" alt="bootstrap logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="34" alt="vuejs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="34" alt="angularjs logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="c logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="34" alt="php logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="34" alt="laravel logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="34" alt="mysql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="git logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="34" alt="github logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="34" alt="composer logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="34" alt="postman logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="34" alt="trello logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="34" alt="jira logo"  />
-  <img width="5" />
-  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="34" alt="wordpress logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="34" alt="vscode logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="34" alt="phpstorm logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="34" alt="intellij logo"  />
+<div align="center">   
+<a href="https://www.linkedin.com/in/marouan-bouchettoy-1b5323261/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-%2300ccff?style=for-the-badge&logo=linkedin&logoColor=white"</a
+<a href="https://github.com/marouane216" target="_blank"><img src="https://img.shields.io/badge/-github-%23000000?style=for-the-badge&logo=github&logoColor=white"</a>
+<a href="https://www.hackerrank.com/uanemaro216" target="_blank"><img src="https://img.shields.io/badge/-hackerrank-%2367ff26?style=for-the-badge&logo=hackerrank&logoColor=white"</a>
+<a href="https://www.instagram.com/__maro._.uane__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
+<a href="https://www.facebook.com/marouane.imz.9" target="_blank"><img src="https://img.shields.io/badge/-facebook-%230000FF?style=for-the-badge&logo=facebook&logoColor=white"</a>
 </div>
 
-###
-
-<div align="center">
-  <img height="333" src="https://marouane216.github.io/me2/banniere.png"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/marouan-bouchettoy" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="57" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.codingame.com/profile/7d0b346cf1a62a4bc3b1d0677ef667200756525" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="57" height="35" alt="coding game logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/uanemaro216" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="57" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://twitter.com/MBouchettoy" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="57" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/marouane.bouchettoy" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="57" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/marouane.bouchettoy" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="57" height="35" alt="facebook logo"  />
-  </a>
-  <a href="mailto:marouanbouchettoy@gmail.com" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="57" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/+212696554077" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.me/+212696554077" style="text-decoration: none !important;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="57" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marouane216&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marouane216&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=marouane216&locale=en&mode=weekly&theme=radical&hide_border=false&border_radius=16&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+##  Langages de programmation
+![ PHP ](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ JavaScript ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![ HTML5 ](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![ CSS3 ](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+##  Frameworks, plateformes et bibliothèques
+![ Bootstrap ](https://img.shields.io/badge/bootstrap-blueviolet.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ Mysql ](https://img.shields.io/badge/Mysql-blue.svg?style=for-the-badge&logo=Mysql&logoColor=white)
+![ UML ](https://img.shields.io/badge/UML-red.svg?style=for-the-badge&logo=UML&logoColor=white)
+![ MVC ](https://img.shields.io/badge/MVC-lightgrey.svg?style=for-the-badge&logo=MVC&logoColor=white)
+<!-- ![Réagir](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![webpack](https://badges.aleen42.com/src/webpack.svg)
+![npm](https://badges.aleen42.com/src/npm.svg) -->
+##  IDE/Éditeurs
+![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) -->
+##  Conception
+![ Figma ](https://img.shields.io/badge/figma-orange?style=for-the-badge&logo=figma&logoColor=white)
+##  Contrôle des versions
+![ Git ](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![ GitHub ](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
+<!-- ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
+![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) -->
   
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Marouane216}/count.svg" /></p> 
 <br></div>
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
