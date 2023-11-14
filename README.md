@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marouan+Bouchettoy;I'm+20+years+old;I+from+Morocco;I+study+Full+Stack+Java+And+Angular+Developer;at+Youcode;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marouan+Bouchettoy;I'm+20+years+old;I+from+Morocco;I+study+Full+Stack+Java+And+Angular+Developer;At+Youcode;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ![I am Full-Stack Java and Angular Developer](https://marouane216.github.io/me2/marouan%20bouchettoy.png)
 
