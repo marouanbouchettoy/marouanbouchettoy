@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marouan+Bouchettoy;I'm+20+years+old;I+from+Morocco;I+study+Full+Stack+Java+And+Angular+Developer;At+Youcode;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-![I am Full-Stack Java and Angular Developer](https://marouane216.github.io/me2/marouan%20bouchettoy.png)
+![I am Full-Stack Java and Angular Developer](https://marouane216.github.io/me2/MAROUAN%20BOUCHETTOY.png)
 
 ###
 
@@ -54,12 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="34" alt="phpstorm logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="34" alt="intellij logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="333" src="https://marouane216.github.io/me2/banniere.png"  />
 </div>
 
 ###
